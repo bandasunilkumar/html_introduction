@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+<title>OM SILK HOUSE</title>
+</head>
+<body>
+<h1><center><font size="8" color="red">OM SILK HOUSE</font></center></h1>
+<h2>Description:-</h2>
+<p>The origin of the Kanchipuram saree dates back to centuries ago when these sarees used to be woven in temples. Kanchipuram sarees, woven from pure mulberry silk, are found in myriad colours. These sarees have borders and pallu in a contrasting colour with heavy gold weaving.</p>
+<img src="https://www.kankatala.com/blog/wp-content/uploads/2023/05/jpg_1-transformed-768x960.jpeg"/>
+<p>In a genuine Kanchipuram Silk Sari, body and border are woven separately and then interlocked together. The joint is woven so strongly that even if the saris tears, the border will not detach. That differentiates the kanchivaram silk saris from the others.
+<table border="2">
+<tr>
+<td>S.NO</td>
+<td>NAME</td>
+<td>PRICE</td></tr>
+<tr>
+<td><1</td>
+<td><Kanchi Bridal pure 2grm Gold Saree</td>
+<td>25000</td></tr>
+<tr>
+<td>2</td>
+<td>Kanchi pure 1grm Gold Saree</td>
+<td>15800</td></tr>
+<tr>
+<td>3</td>
+<td>Kanchi Soft Silk</td>
+<td>7500</td></tr>
+<tr>
+<td>4</td>
+<td>Kanchi Cotton</td>
+<td>2500</td></tr>
+<tr>
+<td>5</td>
+<td>Art Silk</td>
+<td>1000</td></tr>
+
+</p>
+<hr><hr>
+<marquee> desclaimer: all the content shown is for knowledge purpose </marquee>
+</body>
+
+</html>
